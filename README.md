@@ -16,11 +16,8 @@ Feel free to use this portfolio structure as a boilerplate to build your own pro
 
 ### Live Version:
 
-You can view my portfolio live at [Sara's Portfolio](https://enissayct.github.io/portfolio/).
+You can view my portfolio live at [Sara's Portfolio](https://sara-ing.github.io/Portfolio/).
 
-### License:
-
-This portfolio template is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ### Feedback:
 
