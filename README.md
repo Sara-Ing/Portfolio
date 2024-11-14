@@ -10,10 +10,6 @@ Welcome to my personal portfolio website repository! Here, I showcase my skills,
 - **Education**: My academic background.
 - **Contact**: Easy ways to connect with me.
 
-### Using This Template:
-
-Feel free to use this portfolio structure as a boilerplate to build your own professional portfolio! Whether you're a developer, designer, or professional from any field, this template provides a solid foundation for showcasing your expertise and accomplishments.
-
 ### Live Version:
 
 You can view my portfolio live at [Sara's Portfolio](https://sara-ing.github.io/Portfolio/).
